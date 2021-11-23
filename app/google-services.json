@@ -1,0 +1,230 @@
+{
+  "project_info": {
+    "project_number": "1096938562024",
+    "firebase_url": "https://cestabasicaangola.firebaseio.com",
+    "project_id": "cestabasicaangola",
+    "storage_bucket": "cestabasicaangola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096938562024:android:58cd8006d01fde17bb445d",
+        "android_client_info": {
+          "package_name": "com.example.firebaserecyclerviewkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFl_q2iuRCGY8V14JeouTHWE5LkfeFAQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096938562024:android:a82eaf2010eef985bb445d",
+        "android_client_info": {
+          "package_name": "com.example.recyclersample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFl_q2iuRCGY8V14JeouTHWE5LkfeFAQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096938562024:android:d41a3933f0503041bb445d",
+        "android_client_info": {
+          "package_name": "com.malkinfo.animalinformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFl_q2iuRCGY8V14JeouTHWE5LkfeFAQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096938562024:android:a1fccf2dfd324df7bb445d",
+        "android_client_info": {
+          "package_name": "com.ticnes.cebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFl_q2iuRCGY8V14JeouTHWE5LkfeFAQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096938562024:android:651b3a1e32a09847bb445d",
+        "android_client_info": {
+          "package_name": "com.ticnes.cestabasica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096938562024-05jbq9c21525rkkfvcdkp1uvgecp97tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticnes.cestabasica",
+            "certificate_hash": "c66e87975589f0533a9a6b8fdee2d976ea0fd7ba"
+          }
+        },
+        {
+          "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFl_q2iuRCGY8V14JeouTHWE5LkfeFAQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096938562024:android:4088bde2e413ba6ebb445d",
+        "android_client_info": {
+          "package_name": "com.ticnes.cestabasicaangola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096938562024-esc6csp938ut78u9muvkl9jv6qdebv5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticnes.cestabasicaangola",
+            "certificate_hash": "2982e603d68216d2f39275496cffc2f4a71869c7"
+          }
+        },
+        {
+          "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFl_q2iuRCGY8V14JeouTHWE5LkfeFAQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096938562024:android:23c3ba0930ebb64bbb445d",
+        "android_client_info": {
+          "package_name": "com.ticnes.sextas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFl_q2iuRCGY8V14JeouTHWE5LkfeFAQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096938562024-pb1tthkk53pmjtp30032n6vs7pic5qs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
